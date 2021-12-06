@@ -14,3 +14,7 @@ L'application implémente :
 		- l'enegistrement d'un utilisateur
 		- l'ajout d'un vêtement dans la base de donnée
 		- la mise en place d'un pannier par utilisateur
+		
+Le compte sur lequel se connecter est celui-ci :
+	email : projet.flutter@test.com
+	mot de passe : projetpwd
